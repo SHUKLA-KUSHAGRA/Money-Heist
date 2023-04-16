@@ -3,12 +3,12 @@
 
 ## Deployed Site
 
-* [Netlify Frontend] ![frontend](https://elitmus-submission-kushagra-shukla.netlify.app)
-* [Render Frontend] ![frontend](https://elitmus-submission-client.onrender.com)
+* Netlify Frontend [frontend](https://elitmus-submission-kushagra-shukla.netlify.app)
+* Render Frontend [frontend](https://elitmus-submission-client.onrender.com)
 
 ## Backend Deployment
 
-* [Render Backend] ![backend](https://elitmus-submission-server.onrender.com)
+* Render Backend [backend](https://elitmus-submission-server.onrender.com)
 
 ## Table of Contents
 
@@ -17,7 +17,6 @@
 * [Screenshots](#screenshots)
 * [Installation](#installation)
 * [Tech](#tech)
-* [Questions](#Questions)
 
 ## Description
 
@@ -64,9 +63,3 @@ If you would like to install on your local machine then download source code and
 * nodemon
 * Render
 * Netlify
-
-## Questions
-
-Email:
-
-kushagra.shukla.mmmut@gmail.com
