@@ -19,19 +19,21 @@ A virtual heist room where users will have to piece together clues and riddles i
 
 ## Screenshots
 
-![Login Screen]()
+![Login Screen](https://github.com/SHUKLA-KUSHAGRA/E-litmus-Submission/blob/master/screenshots/home%20page.png)
 
-![Game Info Screen]()
+![Game Info Screen](https://github.com/SHUKLA-KUSHAGRA/E-litmus-Submission/blob/master/screenshots/start%20page.png)
 
-![Office]()
+![Office](https://github.com/SHUKLA-KUSHAGRA/E-litmus-Submission/blob/master/screenshots/office%20page.png)
 
-![Painting]()
+![Painting](https://github.com/SHUKLA-KUSHAGRA/E-litmus-Submission/blob/master/screenshots/painting%20page.png)
 
-![Bookshelf]()
+![Bookshelf](https://github.com/SHUKLA-KUSHAGRA/E-litmus-Submission/blob/master/screenshots/bookself%20page.png)
 
-![Safe]()
+![Safe](https://github.com/SHUKLA-KUSHAGRA/E-litmus-Submission/blob/master/screenshots/vault%20page.png)
 
-![LeaderBoard]()
+![Winning](https://github.com/SHUKLA-KUSHAGRA/E-litmus-Submission/blob/master/screenshots/winning%20page.png)
+
+![LeaderBoard](https://github.com/SHUKLA-KUSHAGRA/E-litmus-Submission/blob/master/screenshots/leaderboard%20page.png)
 
 ## Installation
 
