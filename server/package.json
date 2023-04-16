@@ -4,7 +4,7 @@
   "description": "virtual heist room made with MERN stack",
   "main": "server.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "build" : "npm i",
     "test": "echo \"Error: no test specified\" && exit 1",
     "seed": "node scripts/seedDB.js"
