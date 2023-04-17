@@ -3,12 +3,12 @@
 
 ## Deployed Site
 
-* Netlify Frontend [frontend](https://elitmus-submission-kushagra-shukla.netlify.app)
-* Render Frontend [frontend](https://elitmus-submission-client.onrender.com)
+* Netlify Frontend [frontend](https://elitmus-submission-kushagra-shukla.netlify.app) https://elitmus-submission-kushagra-shukla.netlify.app
+* Render Frontend [frontend](https://elitmus-submission-client.onrender.com) https://elitmus-submission-client.onrender.com
 
 ## Backend Deployment
 
-* Render Backend [backend](https://elitmus-submission-server.onrender.com)
+* Render Backend [backend](https://elitmus-submission-server.onrender.com) https://elitmus-submission-server.onrender.com
 
 ## Table of Contents
 
