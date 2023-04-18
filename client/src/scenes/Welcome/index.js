@@ -31,7 +31,7 @@ function Welcome (props) {
                                         <input onChange={props.handleInputChange} name="lastName" type="text" className="form-control" placeholder="Last Name" aria-label="Last Name"/>
                                     </div>
                                     <div className="input-group mb-3">
-                                        <input onChange={props.handleInputChange} name="email" type="text" className="form-control" placeholder="Email" aria-label="Email"/>
+                                        <input onChange={props.handleInputChange} name="email" type="email" className="form-control" placeholder="Email" aria-label="Email"/>
                                     </div>
                                     <div className="input-group mb-3">
                                         <input onChange={props.handleInputChange} name="password" type="password" className="form-control" placeholder="Password" aria-label="Password"/>
@@ -49,7 +49,7 @@ function Welcome (props) {
                                 <div className="form-group">
                                     <div className="formTitle">Log In</div>
                                     <div className="input-group mb-3">
-                                        <input onChange={props.handleInputChange} name="email" type="text" className="form-control" placeholder="Email" aria-label="Email"/>
+                                        <input onChange={props.handleInputChange} name="email" type="email" className="form-control" placeholder="Email" aria-label="Email"/>
                                     </div>
                                     <div className="input-group mb-3">
                                         <input onChange={props.handleInputChange} name="password" type="password" className="form-control" placeholder="Password" aria-label="Password"/>
