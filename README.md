@@ -3,7 +3,7 @@
 
 ## Deployed Site
 
-* Netlify Frontend [frontend](https://elitmus-submission-kushagra-shukla.netlify.app) https://elitmus-submission-kushagra-shukla.netlify.app
+* Netlify Frontend [frontend](https://money-heist-ks.netlify.app/) https://elitmus-submission-kushagra-shukla.netlify.app
 * Render Frontend [frontend](https://elitmus-submission-client.onrender.com) https://elitmus-submission-client.onrender.com
 
 ## Backend Deployment
